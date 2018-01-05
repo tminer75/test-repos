@@ -1,1 +1,3 @@
 I'm something new. Diff me.
+
+I am the other line that was added.
